@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="OverLapRect:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bcbbee5e-a188-43c4-b537-6c2cd25f9a6a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aVoBTfg8IScJwL6CRSHo21NN1k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Roshini\IdeaProjects\RestServices-Messages\OverLapRect" />
+      <recent name="C:\Users\Roshini\IdeaProjects\RestServices-Messages\OverLapRect\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.IntervalTree">
+    <configuration name="IntervalTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iu.IntervalTree" />
+      <module name="OverLapRect" />
+      <option name="PROGRAM_PARAMETERS" value="test.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntervalTree_oldcopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iu.IntervalTree_oldcopy" />
+      <module name="OverLapRect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2">
+        <option name="MakeProject" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.IntervalTree" />
+      <item itemvalue="Application.IntervalTree_oldcopy" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IntervalTree" />
+        <item itemvalue="Application.IntervalTree_oldcopy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcbbee5e-a188-43c4-b537-6c2cd25f9a6a" name="Default Changelist" comment="" />
+      <created>1586829986948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586829986948</updated>
+      <workItem from="1586829994792" duration="9206000" />
+      <workItem from="1586891401127" duration="8376000" />
+      <workItem from="1586916706844" duration="7228000" />
+      <workItem from="1587244410204" duration="5906000" />
+      <workItem from="1587310373796" duration="8564000" />
+      <workItem from="1587394593853" duration="3568000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1586830564269">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1586830564269" />
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587337202734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587337202734" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1586892903472">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1586892903472" />
+    <state x="434" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587249890772">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="434" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1587249890772" />
+    <state x="484" y="119" key="FileChooserDialogImpl" timestamp="1587337680451">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587337680451" />
+    <state width="1323" height="135" key="GridCell.Tab.0.bottom" timestamp="1587401603844">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="135" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587401603844" />
+    <state width="1323" height="135" key="GridCell.Tab.0.center" timestamp="1587401603844">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="135" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587401603844" />
+    <state width="1323" height="135" key="GridCell.Tab.0.left" timestamp="1587401603844">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="135" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587401603844" />
+    <state width="1323" height="135" key="GridCell.Tab.0.right" timestamp="1587401603844">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="135" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587401603844" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1587343596469">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587343596469" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1587343596469">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587343596469" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1587343596469">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587343596469" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1587343596469">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587343596469" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1586830851768">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1586830851768" />
+    <state x="119" y="0" key="SettingsEditor" timestamp="1587337626079">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="119" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587337626079" />
+    <state x="508" y="233" key="classpath-attribute-editor" timestamp="1587245728724">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="508" y="233" key="classpath-attribute-editor/0.0.1366.728@0.0.1366.728" timestamp="1587245728724" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587395747669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587395747669" />
+    <state x="131" y="119" width="1235" height="599" key="new project wizard" timestamp="1587336359897">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="131" y="119" width="1235" height="599" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587336359897" />
+  </component>
+</project>
